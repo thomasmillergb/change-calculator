@@ -1,4 +1,1 @@
-# Thomas Millers Base JavaKotlin Template
-
-
-This Project is a base template to be fork as a quick starter to get a project going.
+A coding challange to calc the change for a given wallet
